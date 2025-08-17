@@ -1,0 +1,19 @@
+{
+    "tickets": [
+        {
+            "ticket_id": 101,
+            "issue": "Login failure",
+            "priority": "High"
+        },
+        {
+            "ticket_id": 102,
+            "issue": "Page not loading",
+            "priority": "Medium"
+        },
+        {
+            "ticket_id": 103,
+            "issue": "Feature request",
+            "priority": "Low"
+        }
+    ]
+}
